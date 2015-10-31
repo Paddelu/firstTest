@@ -1,0 +1,12 @@
+.stupidfonts {
+  font-family: "stupid", Arial, sans-serif;
+  color: chocolate; }
+
+h1, h2 {
+  font-size: 2em;
+  font-weight: bold;
+  color: blue;
+    font-family: "Georgia";
+  padding: 100px 4px; }
+
+/*# sourceMappingURL=custom.css.map */

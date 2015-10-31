@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,YAAY;EACR,WAAW,EAAE,2BAA2B;EACxC,KAAK,EAAE,SAAS;;ACKpB,MAAK;EALD,SAAS,EAMG,GAAG;EALf,WAAW,EAKM,IAAI;EAJrB,KAAK,EAIkB,IAAI;EAC3B,OAAO,EAAE,SAAS",
+"sources": ["../sass/stupidfonts.scss","../sass/custom.scss"],
+"names": [],
+"file": "custom.css"
+}

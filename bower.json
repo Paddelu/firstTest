@@ -1,0 +1,22 @@
+{
+  "name": "bower init testing",
+  "homepage": "https://github.com/Paddelu/firstTest",
+  "authors": [
+    "Paddelu <patrik.paarnio@gmail.com>"
+  ],
+  "description": "test",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "angular": "angularjs#~1.4.7"
+  }
+}
